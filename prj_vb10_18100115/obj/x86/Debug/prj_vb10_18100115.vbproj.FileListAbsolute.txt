@@ -1,0 +1,18 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\prj_vb10_18100115\bin\Debug\prj_vb10_18100115.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\prj_vb10_18100115\bin\Debug\prj_vb10_18100115.pdb
+C:\Users\ASUS\AppData\Local\Temporary Projects\prj_vb10_18100115\bin\Debug\prj_vb10_18100115.xml
+C:\Users\ASUS\AppData\Local\Temporary Projects\prj_vb10_18100115\obj\x86\Debug\prj_vb10_18100115.Formcoba.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\prj_vb10_18100115\obj\x86\Debug\prj_vb10_18100115.Resources.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\prj_vb10_18100115\obj\x86\Debug\prj_vb10_18100115.vbproj.GenerateResource.Cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\prj_vb10_18100115\obj\x86\Debug\prj_vb10_18100115.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\prj_vb10_18100115\obj\x86\Debug\prj_vb10_18100115.xml
+C:\Users\ASUS\AppData\Local\Temporary Projects\prj_vb10_18100115\obj\x86\Debug\prj_vb10_18100115.pdb
+D:\Foto Liza\Dokumen Rani Novializa\college\Semester 6\Sistem Informasi Akuntansi\Quiz\prj_vb10_18100115\prj_vb10_18100115\obj\x86\Debug\prj_vb10_18100115.exe
+D:\Foto Liza\Dokumen Rani Novializa\college\Semester 6\Sistem Informasi Akuntansi\Quiz\prj_vb10_18100115\prj_vb10_18100115\obj\x86\Debug\prj_vb10_18100115.xml
+D:\Foto Liza\Dokumen Rani Novializa\college\Semester 6\Sistem Informasi Akuntansi\Quiz\prj_vb10_18100115\prj_vb10_18100115\obj\x86\Debug\prj_vb10_18100115.pdb
+D:\Foto Liza\Dokumen Rani Novializa\college\Semester 6\Sistem Informasi Akuntansi\Quiz\prj_vb10_18100115\prj_vb10_18100115\bin\Debug\prj_vb10_18100115.exe
+D:\Foto Liza\Dokumen Rani Novializa\college\Semester 6\Sistem Informasi Akuntansi\Quiz\prj_vb10_18100115\prj_vb10_18100115\bin\Debug\prj_vb10_18100115.pdb
+D:\Foto Liza\Dokumen Rani Novializa\college\Semester 6\Sistem Informasi Akuntansi\Quiz\prj_vb10_18100115\prj_vb10_18100115\bin\Debug\prj_vb10_18100115.xml
+D:\Foto Liza\Dokumen Rani Novializa\college\Semester 6\Sistem Informasi Akuntansi\Quiz\prj_vb10_18100115\prj_vb10_18100115\obj\x86\Debug\prj_vb10_18100115.Formcoba.resources
+D:\Foto Liza\Dokumen Rani Novializa\college\Semester 6\Sistem Informasi Akuntansi\Quiz\prj_vb10_18100115\prj_vb10_18100115\obj\x86\Debug\prj_vb10_18100115.Resources.resources
+D:\Foto Liza\Dokumen Rani Novializa\college\Semester 6\Sistem Informasi Akuntansi\Quiz\prj_vb10_18100115\prj_vb10_18100115\obj\x86\Debug\prj_vb10_18100115.vbproj.GenerateResource.Cache
